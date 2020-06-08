@@ -43,6 +43,6 @@ If none is provided then the service should be exposed via a NodePort outside k8
 
 If order for the proxy to work we also need an alias on `/etc/hosts` of the hostname with the k8s cluster IP, i.e.
 ```
-192.168.90.101 welcome-app.labros.local
+192.168.90.101 welcomeapp.labros.local
 ```
 
