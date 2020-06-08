@@ -16,7 +16,7 @@
         <!-- Spring -->
         <spring-boot-dependencies.version>2.2.4.RELEASE</spring-boot-dependencies.version>
         <spring-cloud-dependencies.version>Hoxton.RELEASE</spring-cloud-dependencies.version>
-        <spring-security-oauth2.version>2.3.3.RELEASE</spring-security-oauth2.version>
+        <spring-security-oauth2.version>2.3.6.RELEASE</spring-security-oauth2.version>
         <spring.cloud.config.label>master</spring.cloud.config.label>
 
         <!-- Third parties -->
